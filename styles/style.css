@@ -1,0 +1,23 @@
+html {
+  font-family: "Poppins", sans-serif;
+  background-color: #00539f;
+}
+body {
+  width: 800px;
+  margin: 20px auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 2px solid black;
+}
+h1 {
+  margin: 0;
+  font-size: 60;
+  text-align: center;
+  text-shadow: 3px 1px 2px black;
+}
+p,
+li {
+  color: red;
+  line-height: 2;
+  letter-spacing: 2px;
+}
